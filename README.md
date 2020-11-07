@@ -1,0 +1,2 @@
+# Wp_musi
+一款基于W_PlatformMusicApi接口的三平台音乐播放器
