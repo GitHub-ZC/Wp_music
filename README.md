@@ -5,6 +5,11 @@
 
 `Electron9` + `Node.js` + `vue2`
 
+## 软件下载界面
+
+[Wp_music发布页](https://github.com/GitHub-ZC/Wp_music/releases)
+
+
 ## 软件截图：
 
 ![](https://github-zc.github.io/Wp_music/image-20201108144448024.png)
@@ -15,9 +20,6 @@
 
 ![](https://github-zc.github.io/Wp_music/image-20201108150330963.png)
 
-## 软件下载界面
-
-[Wp_music发布页](https://github.com/GitHub-ZC/Wp_music/releases)
 
 
 
