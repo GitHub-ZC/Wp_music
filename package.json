@@ -1,5 +1,5 @@
 {
-  "name": "wp_musi",
+  "name": "wp_music",
   "version": "1.0.0",
   "author": "iecoxe.top <i153140965@163.com>",
   "description": "An electron-vue project",
@@ -7,7 +7,8 @@
   "main": "./dist/electron/main.js",
   "scripts": {
     "build": "node .electron-vue/build.js && electron-builder",
-    "build:linux": "node .electron-vue/build.js && electron-builder --linux",
+    "build:linux_deb": "node .electron-vue/build.js && electron-builder --linux deb",
+    "build:linux_rpm": "node .electron-vue/build.js && electron-builder --linux rpm",
     "build:dir": "node .electron-vue/build.js && electron-builder --dir",
     "build:clean": "cross-env BUILD_TARGET=clean node .electron-vue/build.js",
     "build:web": "cross-env BUILD_TARGET=web node .electron-vue/build.js",
@@ -20,7 +21,7 @@
     "postinstall": "npm run lint:fix"
   },
   "build": {
-    "productName": "wp_musi",
+    "productName": "wp_music",
     "appId": "iecoxe.top",
     "directories": {
       "output": "build"
