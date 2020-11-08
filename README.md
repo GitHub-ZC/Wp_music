@@ -3,7 +3,7 @@
 
 ## 软件构造：
 
-`Electron` + `Node.js` + `vue2`
+`Electron9` + `Node.js` + `vue2`
 
 ## 软件截图：
 
