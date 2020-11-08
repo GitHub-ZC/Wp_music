@@ -1,4 +1,4 @@
-# Wp_musi
+# Wp_music
 一款基于 `W_PlatformMusicApi` 接口的三平台音乐播放器
 
 ## 软件构造：
